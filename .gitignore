@@ -26,3 +26,4 @@ Thumbs.db
 
 # Project specific
 bedrock-policy.json
+bedrock_test_output_*.txt
